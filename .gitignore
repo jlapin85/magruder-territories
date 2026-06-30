@@ -3,3 +3,8 @@
 node_modules/
 _exp/
 _capture.html
+
+_render_test/
+*.bak*
+_gen_*.py
+assets/downloads/_original/
